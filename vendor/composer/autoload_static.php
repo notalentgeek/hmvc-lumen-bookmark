@@ -32,7 +32,7 @@ class ComposerStaticInit885ccb46f634268666c540143b4c6020
     public static $prefixDirsPsr4 = array (
         'notalentgeek\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/',
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Psr\\Http\\Message\\' => 
         array (
